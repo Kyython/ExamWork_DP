@@ -2,14 +2,18 @@
 {
     public class СentralProcessor : ComputerComponent
     {
+        public СentralProcessor(ComputerType type) : base(type)
+        {
+        }
+
         public override string GetNameComponent()
         {
-            return "CPU";
+            return "СentralProcessor + " + base.GetNameComponent();
         }
 
         public override int GetPriceComponent()
         {
-            return 800;
+            return 50000 + base.GetPriceComponent();
         }
     }
 }

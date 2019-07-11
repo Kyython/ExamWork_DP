@@ -2,18 +2,14 @@
 {
     public class HomeComputer : ComputerType
     {
-        public HomeComputer(ComputerComponent computerComponent) : base(computerComponent)
-        {
-        }
-
         public override string GetNameComponent()
         {
-            return "Home computer " + base.GetNameComponent();
+            return "Home computer ";
         }
 
         public override int GetPriceComponent()
         {
-            return 20000 + base.GetPriceComponent();
+            return 20000;
         }
     }
 }

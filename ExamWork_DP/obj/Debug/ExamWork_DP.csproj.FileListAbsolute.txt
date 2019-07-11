@@ -1,0 +1,7 @@
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\bin\Debug\ExamWork_DP.exe.config
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\bin\Debug\ExamWork_DP.exe
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\bin\Debug\ExamWork_DP.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\obj\Debug\ExamWork_DP.csprojAssemblyReference.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\obj\Debug\ExamWork_DP.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\obj\Debug\ExamWork_DP.exe
+C:\Users\ерика.CORP.000\source\repos\ExamWork_DP\ExamWork_DP\obj\Debug\ExamWork_DP.pdb

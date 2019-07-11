@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ComputerComponent.cs" />
+    <Compile Include="Client.cs" />
     <Compile Include="ComputerType.cs" />
+    <Compile Include="ComputerComponent.cs" />
     <Compile Include="HomeComputer.cs" />
     <Compile Include="Keyboard.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Monitor.cs" />
     <Compile Include="ProComputer.cs" />
     <Compile Include="Program.cs" />
